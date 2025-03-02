@@ -1,6 +1,6 @@
 import requests
 
-url = "https://api.openweathermap.org/data/2.5/weather?q=London&appid=3b0cebc5ddb9ea2b0c1c026810308f84"
+url = "https://api.openweathermap.org/data/2.5/weather?q=India&appid=3b0cebc5ddb9ea2b0c1c026810308f84"
 
 response = requests.get(url)
 
